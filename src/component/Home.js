@@ -9,7 +9,7 @@ state = {
 }
 componentDidMount()
 {
-axios.get('http://api.icndb.com/jokes/random?firstName=John&amp;lastName=Doe')//API
+axios.get('https://api.icndb.com/jokes/random?firstName=John&amp;lastName=Doe')//API
 .then(res => {
     console.log(res)
     this.setState({
