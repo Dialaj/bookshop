@@ -1,22 +1,31 @@
-.App {
+
+.card.dark {
+ background-color: white;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
+.searchP{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr  ;
+ 
+  
+  
+}
+.searchP div {
+  margin: 30px;
+} 
+
+body{
+  background-image: url(./img/pupu.jfif);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+
+  
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.mr-autoo{margin-right: 2%;  
 }
 
-.App-link {
-  color: #09d3ac;
+.mr-autooo{margin-right: 5%;  
 }

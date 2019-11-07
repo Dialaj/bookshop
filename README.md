@@ -1,68 +1,70 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## BookShop
+One Paragraph of project description goes here
 
-## Available Scripts
+## Description
+A bookshop is a website for books that allows the user to search for books and see it in a PDF and also the user can signin if there is an account, and signup if there is no account .
 
-In the project directory, you can run:
+## Technical Used
+- Bootstrap with react
+- React 
+- Ajax (axios) for API
+- React Route-Dom
 
-### `yarn start`
+## Wireframes
+![Home page](F1.png)
+![Search page](F2.png)
+![About page](F3.png)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## User Stories
+ - As a user i would like to search any kind of books.
+ - As a user i would like to see a contact us if there is any qusetions.
+ - As a user i would like to see a book as PDF.
+-  As a user i would like to signin or signup.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Planning and Development Process
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1st day
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- I understand th logic of how to develop the website
+- Designing the pages using Bootstrap.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+2nd day
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- I worked on the code step by step .
+- I worked on  first API (Books API)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3rd day
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- Created the pages.
+- Fixed some pugs on the website.
+- I workd on the second API (Quotes)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+4th day 
 
-## Learn More
+- Make the README file 
+- Orgnized the code.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Problem-Solving Strategy
+I used a print method to check if the functions is working . 
 
-### Code Splitting
+## Unsolved problems
+The propblem with the same API .
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+## APIs Used
+- (https://react-bootstrap.github.io/components/navbar/
+)
 
-### Analyzing the Bundle Size
+- (https://react-bootstrap.github.io/components/navs/)
+- (https://react-bootstrap.github.io/components/jumbotron/)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-### Making a Progressive Web App
+## Acknowledgments
+I would like to thank my geniuses instructors and classmates for their motivation and providing help.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## References
